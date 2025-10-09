@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/pump500sol",
   "VITE_SEO_SITE_NAME": "Pump500 DEX",
   "VITE_SEO_SITE_DESCRIPTION": "A Powerful Decentralized Exchange for omnichain Perp Trading",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/pump500liquid-5670/",
+  "VITE_SEO_SITE_URL": "https://pump500liquid.finance",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@pump500sol",
